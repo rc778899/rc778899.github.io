@@ -1,3 +1,4 @@
 {
-  "min_version_required_octoagile": 7
+  "min_version_required_octoagile": 7,
+  "min_version_required_ilr180rulecalculator": 1
 }
